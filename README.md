@@ -1,1 +1,1 @@
-# R.E.M-Gloves
+# R.G.M- Rapid Glove Movement
